@@ -7,3 +7,4 @@ Add mirror modifier and enable Clipping ( ? )
 - Referance ImAGE
 Add IMG as Referance file 
 
+## Camera
